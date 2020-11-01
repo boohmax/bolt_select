@@ -1,0 +1,67 @@
+[
+    {
+    "washer_size":6,
+    "washer_width":1.6,
+    "washer_diameter":12
+    },
+
+    {
+    "washer_size":8,
+    "washer_width":1.6,
+    "washer_diameter":16
+    },
+
+    {
+    "washer_size":10,
+    "washer_width":2,
+    "washer_diameter":20
+    },
+
+    {
+    "washer_size":12,
+    "washer_width":2.5,
+    "washer_diameter":24
+    },
+
+    {
+    "washer_size":16,
+    "washer_width":3,
+    "washer_diameter":30
+    },
+
+    {
+    "washer_size":20,
+    "washer_width":3,
+    "washer_diameter":37
+    },
+
+    {
+    "washer_size":24,
+    "washer_width":4,
+    "washer_diameter":44
+    },
+
+    {
+    "washer_size":30,
+    "washer_width":4,
+    "washer_diameter":56
+    },
+
+    {
+    "washer_size":36,
+    "washer_width":5,
+    "washer_diameter":66
+    },
+
+    {
+    "washer_size":42,
+    "washer_width":7,
+    "washer_diameter":78
+    },
+
+    {
+    "washer_size":48,
+    "washer_width":8,
+    "washer_diameter":92
+    }
+]

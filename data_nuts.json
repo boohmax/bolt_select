@@ -1,0 +1,67 @@
+[
+    {
+    "nut_size":6,
+    "nut_width":5.2,
+    "nut_diameter":10.9
+    },
+
+    {
+    "nut_size":8,
+    "nut_width":6.8,
+    "nut_diameter":14.2
+    },
+
+    {
+    "nut_size":10,
+    "nut_width":8.4,
+    "nut_diameter":17.6
+    },
+
+    {
+    "nut_size":12,
+    "nut_width":10.8,
+    "nut_diameter":19.9
+    },
+
+    {
+    "nut_size":16,
+    "nut_width":14.8,
+    "nut_diameter":26.2
+    },
+
+    {
+    "nut_size":20,
+    "nut_width":18,
+    "nut_diameter":33
+    },
+
+    {
+    "nut_size":24,
+    "nut_width":21.5,
+    "nut_diameter":39.6
+    },
+
+    {
+    "nut_size":30,
+    "nut_width":25.6,
+    "nut_diameter":50.9
+    },
+
+    {
+    "nut_size":36,
+    "nut_width":31,
+    "nut_diameter":60.8
+    },
+
+    {
+    "nut_size":42,
+    "nut_width":34,
+    "nut_diameter":71.3
+    },
+
+    {
+    "nut_size":48,
+    "nut_width":38,
+    "nut_diameter":82.6
+    }
+]
