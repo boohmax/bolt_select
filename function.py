@@ -25,9 +25,8 @@ def select_bolts(data_bolts, data_nuts,
     for bolt in data_bolts:
         result = True
         
-        if bolt['bolt_size'] == size:
-            length = washer_head*washer_width + det1 + det2
-            + washer_width + nuts_count*nut_width
+        length = washer_head*washer_width + det1 + det2
+        + washer_width + nuts_count*nut_width
 
         if bolt['thread_length'] != '':
             thread_inner = bolt['bolt_length']\
@@ -47,7 +46,8 @@ def select_bolts(data_bolts, data_nuts,
             thread_remain = 2 * bolt["thread_size_small"]
   
         if result:
-            result = (length + thread_remain) < bolt['bolt_length']
+            result = bolt['bolt_size'] == size and\
+            (length + thread_remain) < bolt['bolt_length']
 
         if result:
             result = thread_inner < 5 and thread_inner < det2/2

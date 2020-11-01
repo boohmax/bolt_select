@@ -3,7 +3,7 @@ import argparse
 import function
 
 parser = argparse.ArgumentParser(
-    description='Program for select bolts with given parameters'
+    description='Program for select bolts working in shear with given parameters'
     )
 '''parser.add_argument('catalog_bolts')
 parser.add_argument('catalog_nuts')
