@@ -3,34 +3,33 @@ import argparse
 import function
 
 parser = argparse.ArgumentParser(
-    description='Program for select bolts working in shear with given parameters'
+    description='Program for select bolts with given parameters'
     )
-'''parser.add_argument('catalog_bolts')
-parser.add_argument('catalog_nuts')
-parser.add_argument('catalog_washers')
-'''
 parser.add_argument(
     '--size', dest='size', type=int, help='Write size of bolt'
     )
 parser.add_argument(
     '--det1', dest='det1', type=int,
-    help='Write det1 size of connecting details'
+    help='Write width det1 of connecting details'
     )
 parser.add_argument(
     '--det2', dest='det2', type=int,
-    help='Write det2 size of connecting details'
+    help='Write width det2 of connecting details'
     )
 parser.add_argument(
     '--thread', dest='thread', type=str, default='big',
-    help='Write thread size of bolt'
+    help='Write thread size of bolt, big or small'
     )
 parser.add_argument(
-    '--washer', dest='washer', type=int, default=1,
-    help='Exsistance washer under bolt head'
+    '--thread_entry', dest='thread_entry', type=str, default='no',
+    help='Thread entry in detail package, yes or no')
+parser.add_argument(
+    '--washer_head', dest='washer_head', type=int, default=1,
+    help='Exsistance washer under bolt head, 1 or 0'
     )
 parser.add_argument(
-    '--nuts', dest='nuts', type=int, default=2,
-    help='Number of nuts'
+    '--nuts_count', dest='nuts_count', type=int, default=2,
+    help='Number of nuts, 2 or 1'
     )
 args = parser.parse_args()
 
@@ -48,6 +47,7 @@ file_washers.close()
 
 
 print(function.select_bolts(data_bolts, data_nuts, data_washers,
-    args.size, args.det1, args.det2, args.thread, args.washer, args.nuts
+    args.size, args.det1, args.det2, args.thread, args.thread_entry,
+    args.washer_head, args.nuts_count
     )
 )
