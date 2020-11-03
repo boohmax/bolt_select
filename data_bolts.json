@@ -4,7 +4,7 @@
     "bolt_length":14,
     "thread_size_big":1,
     "thread_size_small":"",
-    "thread_length":""
+    "thread_length":14
     },
 
     {
@@ -12,7 +12,7 @@
     "bolt_length":16,
     "thread_size_big":1,
     "thread_size_small":"",
-    "thread_length":""
+    "thread_length":16
     },
 
     {
@@ -20,7 +20,7 @@
     "bolt_length":20,
     "thread_size_big":1,
     "thread_size_small":"",
-    "thread_length":""
+    "thread_length":20
     },
 
     {
@@ -124,7 +124,7 @@
     "bolt_length":90,
     "thread_size_big":1,
     "thread_size_small":"",
-    "thread_length":""
+    "thread_length":18
     },
 
     {
@@ -132,7 +132,7 @@
     "bolt_length":16,
     "thread_size_big":1.25,
     "thread_size_small":1,
-    "thread_length":""
+    "thread_length":16
     },
 
     {
@@ -140,7 +140,7 @@
     "bolt_length":20,
     "thread_size_big":1.25,
     "thread_size_small":1,
-    "thread_length":""
+    "thread_length":20
     },
 
     {
@@ -148,7 +148,7 @@
     "bolt_length":25,
     "thread_size_big":1.25,
     "thread_size_small":1,
-    "thread_length":""
+    "thread_length":25
     },
 
     {
@@ -260,7 +260,7 @@
     "bolt_length":20,
     "thread_size_big":1.5,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":20
     },
 
     {
@@ -268,7 +268,7 @@
     "bolt_length":25,
     "thread_size_big":1.5,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":25
     },
 
     {
@@ -276,7 +276,7 @@
     "bolt_length":30,
     "thread_size_big":1.5,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":30
     },
 
     {
@@ -460,7 +460,7 @@
     "bolt_length":20,
     "thread_size_big":1.75,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":20
     },
 
     {
@@ -468,7 +468,7 @@
     "bolt_length":25,
     "thread_size_big":1.75,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":25
     },
 
     {
@@ -476,7 +476,7 @@
     "bolt_length":30,
     "thread_size_big":1.75,
     "thread_size_small":1.25,
-    "thread_length":""
+    "thread_length":30
     },
 
     {
@@ -684,7 +684,7 @@
     "bolt_length":25,
     "thread_size_big":2,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":25
     },
 
     {
@@ -692,7 +692,7 @@
     "bolt_length":30,
     "thread_size_big":2,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":30
     },
 
     {
@@ -700,7 +700,7 @@
     "bolt_length":35,
     "thread_size_big":2,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":35
     },
 
     {
@@ -708,7 +708,7 @@
     "bolt_length":40,
     "thread_size_big":2,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":40
     },
 
     {
@@ -916,7 +916,7 @@
     "bolt_length":25,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":25
     },
 
     {
@@ -924,7 +924,7 @@
     "bolt_length":30,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":30
     },
 
     {
@@ -932,7 +932,7 @@
     "bolt_length":35,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":35
     },
 
     {
@@ -940,7 +940,7 @@
     "bolt_length":40,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":40
     },
 
     {
@@ -948,7 +948,7 @@
     "bolt_length":45,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":45
     },
 
     {
@@ -956,7 +956,7 @@
     "bolt_length":50,
     "thread_size_big":2.5,
     "thread_size_small":1.5,
-    "thread_length":""
+    "thread_length":50
     },
 
     {
@@ -1148,7 +1148,7 @@
     "bolt_length":35,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":35
     },
 
     {
@@ -1156,7 +1156,7 @@
     "bolt_length":40,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":40
     },
 
     {
@@ -1164,7 +1164,7 @@
     "bolt_length":45,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":45
     },
 
     {
@@ -1172,7 +1172,7 @@
     "bolt_length":50,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":50
     },
 
     {
@@ -1180,7 +1180,7 @@
     "bolt_length":55,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":55
     },
 
     {
@@ -1188,7 +1188,7 @@
     "bolt_length":60,
     "thread_size_big":3,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":60
     },
 
     {
@@ -1364,7 +1364,7 @@
     "bolt_length":40,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":40
     },
 
     {
@@ -1372,7 +1372,7 @@
     "bolt_length":45,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":45
     },
 
     {
@@ -1380,7 +1380,7 @@
     "bolt_length":50,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":50
     },
 
     {
@@ -1388,7 +1388,7 @@
     "bolt_length":55,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":55
     },
 
     {
@@ -1396,7 +1396,7 @@
     "bolt_length":60,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":60
     },
 
     {
@@ -1404,7 +1404,7 @@
     "bolt_length":65,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":65
     },
 
     {
@@ -1412,7 +1412,7 @@
     "bolt_length":70,
     "thread_size_big":3.5,
     "thread_size_small":2,
-    "thread_length":""
+    "thread_length":70
     },
 
     {
@@ -1572,7 +1572,7 @@
     "bolt_length":50,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":50
     },
 
     {
@@ -1580,7 +1580,7 @@
     "bolt_length":55,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":55
     },
 
     {
@@ -1588,7 +1588,7 @@
     "bolt_length":60,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":60
     },
 
     {
@@ -1596,7 +1596,7 @@
     "bolt_length":65,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":65
     },
 
     {
@@ -1604,7 +1604,7 @@
     "bolt_length":70,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":70
     },
 
     {
@@ -1612,7 +1612,7 @@
     "bolt_length":75,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":75
     },
 
     {
@@ -1620,7 +1620,7 @@
     "bolt_length":80,
     "thread_size_big":4,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":80
     },
 
     {
@@ -1764,7 +1764,7 @@
     "bolt_length":55,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":55
     },
 
     {
@@ -1772,7 +1772,7 @@
     "bolt_length":60,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":60
     },
 
     {
@@ -1780,7 +1780,7 @@
     "bolt_length":65,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":65
     },
 
     {
@@ -1788,7 +1788,7 @@
     "bolt_length":70,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":70
     },
 
     {
@@ -1796,7 +1796,7 @@
     "bolt_length":75,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":75
     },
 
     {
@@ -1804,7 +1804,7 @@
     "bolt_length":80,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":80
     },
 
     {
@@ -1812,7 +1812,7 @@
     "bolt_length":90,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":90
     },
 
     {
@@ -1820,7 +1820,7 @@
     "bolt_length":100,
     "thread_size_big":4.5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":100
     },
 
     {
@@ -1948,7 +1948,7 @@
     "bolt_length":65,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":65
     },
 
     {
@@ -1956,7 +1956,7 @@
     "bolt_length":70,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":70
     },
 
     {
@@ -1964,7 +1964,7 @@
     "bolt_length":75,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":75
     },
 
     {
@@ -1972,7 +1972,7 @@
     "bolt_length":80,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":80
     },
 
     {
@@ -1980,7 +1980,7 @@
     "bolt_length":90,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":90
     },
 
     {
@@ -1988,7 +1988,7 @@
     "bolt_length":100,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":100
     },
 
     {
@@ -1996,7 +1996,7 @@
     "bolt_length":110,
     "thread_size_big":5,
     "thread_size_small":3,
-    "thread_length":""
+    "thread_length":110
     },
 
     {
