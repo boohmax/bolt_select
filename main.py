@@ -46,8 +46,9 @@ data_washers = json.load(file_washers)
 file_washers.close()
 
 
-print(function.select_bolts(data_bolts, data_nuts, data_washers,
+print(function.select_bolts(
+    data_bolts, data_nuts, data_washers,
     args.size, args.det1, args.det2, args.thread, args.thread_entry,
     args.washer_head, args.nuts_count
-    )
+)
 )
