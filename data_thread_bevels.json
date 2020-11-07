@@ -1,0 +1,56 @@
+[
+    {
+    "thread_step":1,
+    "thread_bevel":1
+    },
+
+    {
+    "thread_step":1.25,
+    "thread_bevel":1.6
+    },
+
+    {
+    "thread_step":1.5,
+    "thread_bevel":1.6
+    },
+
+    {
+    "thread_step":1.75,
+    "thread_bevel":1.6
+    },
+
+    {
+    "thread_step":2,
+    "thread_bevel":2
+    },
+
+    {
+    "thread_step":2.5,
+    "thread_bevel":2.5
+    },
+
+    {
+    "thread_step":3,
+    "thread_bevel":2.5
+    },
+
+    {
+    "thread_step":3.5,
+    "thread_bevel":2.5
+    },
+
+    {
+    "thread_step":4,
+    "thread_bevel":3
+    },
+
+    {
+    "thread_step":4.5,
+    "thread_bevel":3
+    },
+
+    {
+    "thread_step":5,
+    "thread_bevel":4
+    }
+]
