@@ -52,8 +52,7 @@ data_bevels = json.load(file_bevels)
 file_bevels.close()
 
 
-print(
-    function.select_bolts(
+print(function.select_bolts(
     data_bolts, data_nuts, data_washers, data_bevels,
     args.size, args.det1, args.det2, args.thread, args.thread_entry,
     args.washer_head, args.nuts_count
