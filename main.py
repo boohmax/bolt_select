@@ -3,7 +3,9 @@ import argparse
 import function
 
 parser = argparse.ArgumentParser(
-    description='Program for select bolts with given parameters'
+    description='''Program for select bolts with given parameters.
+    Bolts GOST 7798-70. Nuts GOST 5915-70. Washers GOST 11371-78.
+    Thread bevel GOST 10549-80.'''
     )
 parser.add_argument(
     '--size', dest='size', type=int, help='Write size of bolt'
@@ -45,9 +47,14 @@ file_washers = open("data_washers.json")
 data_washers = json.load(file_washers)
 file_washers.close()
 
+file_bevels = open("data_thread_bevels.json")
+data_bevels = json.load(file_bevels)
+file_bevels.close()
 
-print(function.select_bolts(
-    data_bolts, data_nuts, data_washers,
+
+print(
+    function.select_bolts(
+    data_bolts, data_nuts, data_washers, data_bevels,
     args.size, args.det1, args.det2, args.thread, args.thread_entry,
     args.washer_head, args.nuts_count
 )
