@@ -1,6 +1,6 @@
 import json
 import argparse
-import function
+import bolts
 
 parser = argparse.ArgumentParser(
     description='''Program for select bolts with given parameters.
@@ -8,14 +8,14 @@ parser = argparse.ArgumentParser(
     Thread bevel GOST 10549-80.'''
     )
 parser.add_argument(
-    '--size', dest='size', type=int, help='Write size of bolt'
+    'size', type=int, help='Write size of bolt'
     )
 parser.add_argument(
-    '--det1', dest='det1', type=int,
+    'det1', type=int,
     help='Write width det1 of connecting details'
     )
 parser.add_argument(
-    '--det2', dest='det2', type=int,
+    'det2', type=int,
     help='Write width det2 of connecting details'
     )
 parser.add_argument(
@@ -23,11 +23,11 @@ parser.add_argument(
     help='Write thread size of bolt, big or small'
     )
 parser.add_argument(
-    '--thread_entry', dest='thread_entry', type=str, default='no',
-    help='Thread entry in detail package, yes or no')
+    '--thread_entry', dest='thread_entry', type=bool, default=False,
+    help='Thread entry in detail package, True or False')
 parser.add_argument(
-    '--washer_head', dest='washer_head', type=int, default=1,
-    help='Exsistance washer under bolt head, 1 or 0'
+    '--washer_head', dest='washer_head', type=bool, default=True,
+    help='Exsistance washer under bolt head, True or False'
     )
 parser.add_argument(
     '--nuts_count', dest='nuts_count', type=int, default=2,
@@ -35,25 +35,7 @@ parser.add_argument(
     )
 args = parser.parse_args()
 
-file_bolts = open("data_bolts.json")
-data_bolts = json.load(file_bolts)
-file_bolts.close()
-
-file_nuts = open("data_nuts.json")
-data_nuts = json.load(file_nuts)
-file_nuts.close()
-
-file_washers = open("data_washers.json")
-data_washers = json.load(file_washers)
-file_washers.close()
-
-file_bevels = open("data_thread_bevels.json")
-data_bevels = json.load(file_bevels)
-file_bevels.close()
-
-
-print(function.select_bolts(
-    data_bolts, data_nuts, data_washers, data_bevels,
+print(bolts.find_bolts_GOST_7798_70(
     args.size, args.det1, args.det2, args.thread, args.thread_entry,
     args.washer_head, args.nuts_count
 )

@@ -1,2113 +1,2346 @@
 [
     {
-    "bolt_size":6,
-    "bolt_length":14,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":14
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":16,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":16
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":20,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":20
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":25,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":30,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":35,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":40,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":45,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":50,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":55,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":60,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":65,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
-    },
-
-    {
-    "bolt_size":6,
-    "bolt_length":70,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
+        "bolt_size": 6,
+        "bolt_length": 14,
+        "thread_size_big": 1,
+        "thread_length": 14,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":6,
-    "bolt_length":75,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
+        "bolt_size": 6,
+        "bolt_length": 16,
+        "thread_size_big": 1,
+        "thread_length": 16,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":6,
-    "bolt_length":80,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
+        "bolt_size": 6,
+        "bolt_length": 20,
+        "thread_size_big": 1,
+        "thread_length": 20,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":6,
-    "bolt_length":90,
-    "thread_size_big":1,
-    "thread_size_small":"",
-    "thread_length":18
+        "bolt_size": 6,
+        "bolt_length": 25,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":8,
-    "bolt_length":16,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":16
+        "bolt_size": 6,
+        "bolt_length": 30,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":8,
-    "bolt_length":20,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":20
+        "bolt_size": 6,
+        "bolt_length": 35,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":8,
-    "bolt_length":25,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":25
+        "bolt_size": 6,
+        "bolt_length": 40,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
     },
-
     {
-    "bolt_size":8,
-    "bolt_length":30,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":35,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":40,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":45,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":50,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":55,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":60,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":65,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":70,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":75,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":80,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":90,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-    {
-    "bolt_size":8,
-    "bolt_length":100,
-    "thread_size_big":1.25,
-    "thread_size_small":1,
-    "thread_length":22
-    },
-
-        {
-    "bolt_size":10,
-    "bolt_length":20,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":20
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":25,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":25
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":30,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":35,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":40,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":45,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":50,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":55,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":60,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":65,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":70,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":75,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":80,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":90,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":100,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":110,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":120,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":26
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":130,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":140,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":150,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":160,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":170,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":180,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":190,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-    {
-    "bolt_size":10,
-    "bolt_length":200,
-    "thread_size_big":1.5,
-    "thread_size_small":1.25,
-    "thread_length":32
-    },
-
-        {
-    "bolt_size":12,
-    "bolt_length":20,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":20
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":25,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":25
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":30,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":35,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":40,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":45,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":50,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":55,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":60,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":65,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":70,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":75,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":80,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":90,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":100,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":110,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":120,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":130,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":140,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":150,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":160,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":170,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":180,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":190,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":200,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":36
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":220,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":49
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":240,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":49
-    },
-
-    {
-    "bolt_size":12,
-    "bolt_length":260,
-    "thread_size_big":1.75,
-    "thread_size_small":1.25,
-    "thread_length":49
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":25,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":25
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":30,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":35,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":35
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":40,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":40
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":45,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":50,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":55,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":60,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":65,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":70,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":75,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":80,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":90,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":100,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":110,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":120,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":38
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":130,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":140,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":150,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":160,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":170,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":180,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":190,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":200,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":44
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":220,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":57
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":240,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":57
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":260,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":57
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":280,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":57
-    },
-
-    {
-    "bolt_size":16,
-    "bolt_length":300,
-    "thread_size_big":2,
-    "thread_size_small":1.5,
-    "thread_length":57
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":25,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":25
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":30,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":30
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":35,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":35
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":40,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":40
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":45,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":45
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":50,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":50
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":55,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":60,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":65,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":70,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":75,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":80,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":90,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":100,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":110,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":120,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":46
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":130,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":140,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":150,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":160,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":170,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":180,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":190,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":200,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":52
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":220,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":240,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":260,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":280,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":20,
-    "bolt_length":300,
-    "thread_size_big":2.5,
-    "thread_size_small":1.5,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":35,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":35
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":40,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":40
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":45,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":45
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":50,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":50
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":55,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":55
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":60,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":65,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":70,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":75,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":80,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":90,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":100,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":110,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":120,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":54
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":130,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":140,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":150,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":160,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":170,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":180,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":190,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":200,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":220,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":73
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":240,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":73
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":260,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":73
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":280,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":73
-    },
-
-    {
-    "bolt_size":24,
-    "bolt_length":300,
-    "thread_size_big":3,
-    "thread_size_small":2,
-    "thread_length":73
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":40,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":40
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":45,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":45
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":50,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":50
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":55,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":55
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":60,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":65,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":70,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":70
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":75,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":80,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":90,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":100,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":110,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":120,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":66
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":130,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":140,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":150,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":160,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":170,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":180,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":190,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":200,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":72
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":220,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":85
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":240,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":85
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":260,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":85
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":280,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":85
-    },
-
-    {
-    "bolt_size":30,
-    "bolt_length":300,
-    "thread_size_big":3.5,
-    "thread_size_small":2,
-    "thread_length":85
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":50,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":50
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":55,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":55
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":60,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":65,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":70,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":70
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":75,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":75
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":80,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":80
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":90,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":78
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":100,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":78
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":110,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":78
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":120,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":78
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":136,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":140,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":150,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":160,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":170,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":180,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":190,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":200,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":84
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":220,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":97
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":240,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":97
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":260,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":97
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":280,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":97
-    },
-
-    {
-    "bolt_size":36,
-    "bolt_length":300,
-    "thread_size_big":4,
-    "thread_size_small":3,
-    "thread_length":97
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":55,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":55
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":60,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":60
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":65,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":70,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":70
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":75,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":75
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":80,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":80
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":90,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":90
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":100,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":100
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":110,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":90
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":120,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":90
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":130,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":140,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":150,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":160,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":170,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":180,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":190,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":200,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":96
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":220,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":109
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":240,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":109
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":260,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":109
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":280,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":109
-    },
-
-    {
-    "bolt_size":42,
-    "bolt_length":300,
-    "thread_size_big":4.5,
-    "thread_size_small":3,
-    "thread_length":109
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":65,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":65
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":70,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":70
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":75,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":75
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":80,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":80
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":90,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":90
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":100,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":100
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":110,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":110
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":120,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":102
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":130,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":140,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":150,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":160,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":170,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":180,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":190,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":200,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":108
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":220,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":121
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":240,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":121
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":260,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":121
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":280,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":121
-    },
-
-    {
-    "bolt_size":48,
-    "bolt_length":300,
-    "thread_size_big":5,
-    "thread_size_small":3,
-    "thread_length":121
+        "bolt_size": 6,
+        "bolt_length": 45,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 50,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 55,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 60,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 65,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 70,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 75,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 80,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 6,
+        "bolt_length": 90,
+        "thread_size_big": 1,
+        "thread_length": 18,
+        "thread_bevel_big": 1
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 16,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 16,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 20,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 20,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 25,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 25,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 30,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 35,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 40,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 45,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 50,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 55,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 60,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 65,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 70,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 75,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 80,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 90,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 8,
+        "bolt_length": 100,
+        "thread_size_big": 1.25,
+        "thread_size_small": 1,
+        "thread_length": 22,
+        "thread_bevel_small": 1,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 20,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 20,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 25,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 25,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 30,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 35,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 40,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 45,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 50,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 55,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 60,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 65,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 70,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 75,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 80,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 90,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 100,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 110,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 120,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 26,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 130,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 140,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 150,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 160,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 170,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 180,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 190,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 10,
+        "bolt_length": 200,
+        "thread_size_big": 1.5,
+        "thread_size_small": 1.25,
+        "thread_length": 32,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 20,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 20,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 25,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 25,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 30,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 35,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 40,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 45,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 50,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 55,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 60,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 65,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 70,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 75,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 80,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 90,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 100,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 110,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 120,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 130,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 140,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 150,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 160,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 170,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 180,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 190,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 200,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 36,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 220,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 49,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 240,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 49,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 12,
+        "bolt_length": 260,
+        "thread_size_big": 1.75,
+        "thread_size_small": 1.25,
+        "thread_length": 49,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 1.6
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 25,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 25,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 30,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 35,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 35,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 40,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 40,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 45,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 50,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 55,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 60,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 65,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 70,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 75,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 80,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 90,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 100,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 110,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 120,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 38,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 130,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 140,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 150,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 160,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 170,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 180,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 190,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 200,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 44,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 220,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 57,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 240,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 57,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 260,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 57,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 280,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 57,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 16,
+        "bolt_length": 300,
+        "thread_size_big": 2,
+        "thread_size_small": 1.5,
+        "thread_length": 57,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 25,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 25,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 30,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 30,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 35,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 35,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 40,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 40,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 45,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 45,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 50,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 50,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 55,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 60,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 65,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 70,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 75,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 80,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 90,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 100,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 110,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 120,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 46,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 130,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 140,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 150,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 160,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 170,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 180,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 190,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 200,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 52,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 220,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 65,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 240,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 65,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 260,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 65,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 280,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 65,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 20,
+        "bolt_length": 300,
+        "thread_size_big": 2.5,
+        "thread_size_small": 1.5,
+        "thread_length": 65,
+        "thread_bevel_small": 1.6,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 35,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 35,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 40,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 40,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 45,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 45,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 50,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 50,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 55,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 55,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 60,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 65,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 70,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 75,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 80,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 90,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 100,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 110,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 120,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 54,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 130,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 140,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 150,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 160,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 170,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 180,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 190,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 200,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 220,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 73,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 240,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 73,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 260,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 73,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 280,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 73,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 24,
+        "bolt_length": 300,
+        "thread_size_big": 3,
+        "thread_size_small": 2,
+        "thread_length": 73,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 40,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 40,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 45,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 45,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 50,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 50,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 55,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 55,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 60,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 60,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 65,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 65,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 70,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 70,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 75,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 80,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 90,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 100,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 110,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 120,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 66,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 130,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 140,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 150,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 160,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 170,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 180,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 190,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 200,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 72,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 220,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 85,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 240,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 85,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 260,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 85,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 280,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 85,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 30,
+        "bolt_length": 300,
+        "thread_size_big": 3.5,
+        "thread_size_small": 2,
+        "thread_length": 85,
+        "thread_bevel_small": 2,
+        "thread_bevel_big": 2.5
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 50,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 50,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 55,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 55,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 60,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 60,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 65,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 65,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 70,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 70,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 75,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 75,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 80,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 80,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 90,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 78,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 100,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 78,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 110,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 78,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 120,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 78,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 136,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 140,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 150,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 160,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 170,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 180,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 190,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 200,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 84,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 220,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 97,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 240,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 97,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 260,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 97,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 280,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 97,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 36,
+        "bolt_length": 300,
+        "thread_size_big": 4,
+        "thread_size_small": 3,
+        "thread_length": 97,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 55,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 55,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 60,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 60,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 65,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 65,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 70,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 70,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 75,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 75,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 80,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 80,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 90,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 90,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 100,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 100,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 110,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 90,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 120,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 90,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 130,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 140,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 150,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 160,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 170,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 180,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 190,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 200,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 96,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 220,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 109,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 240,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 109,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 260,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 109,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 280,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 109,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 42,
+        "bolt_length": 300,
+        "thread_size_big": 4.5,
+        "thread_size_small": 3,
+        "thread_length": 109,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 3
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 65,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 65,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 70,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 70,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 75,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 75,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 80,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 80,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 90,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 90,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 100,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 100,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 110,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 110,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 120,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 102,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 130,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 140,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 150,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 160,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 170,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 180,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 190,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 200,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 108,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 220,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 121,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 240,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 121,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 260,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 121,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 280,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 121,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
+    },
+    {
+        "bolt_size": 48,
+        "bolt_length": 300,
+        "thread_size_big": 5,
+        "thread_size_small": 3,
+        "thread_length": 121,
+        "thread_bevel_small": 2.5,
+        "thread_bevel_big": 4
     }
 ]
