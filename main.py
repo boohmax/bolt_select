@@ -2,6 +2,16 @@ import json
 import argparse
 import bolts
 
+def str2bool(v):
+    if isinstance(v, bool):
+       return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 parser = argparse.ArgumentParser(
     description='''Program for select bolts with given parameters.
     Bolts GOST 7798-70. Nuts GOST 5915-70. Washers GOST 11371-78.
@@ -23,14 +33,16 @@ parser.add_argument(
     help='Write thread size of bolt, big or small'
     )
 parser.add_argument(
-    '--thread_entry', dest='thread_entry', type=bool, default=False,
+    '--thread-entry', dest='thread_entry', type=str2bool, nargs='?',
+    default=False, const=True,
     help='Thread entry in detail package, True or False')
 parser.add_argument(
-    '--washer_head', dest='washer_head', type=bool, default=True,
+    '--washer-head', dest='washer_head', type=str2bool, nargs='?',
+    default=True, const=False,
     help='Exsistance washer under bolt head, True or False'
     )
 parser.add_argument(
-    '--nuts_count', dest='nuts_count', type=int, default=2,
+    '--nuts-count', dest='nuts_count', type=int, default=2,
     help='Number of nuts, 2 or 1'
     )
 args = parser.parse_args()
