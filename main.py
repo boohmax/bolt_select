@@ -13,7 +13,7 @@ def str2bool(v):
         raise argparse.ArgumentTypeError('Boolean value expected.')
 
 parser = argparse.ArgumentParser(
-    description='''Program for select bolts with given parameters.
+    description='''Program for find bolts with given parameters.
     Bolts GOST 7798-70. Nuts GOST 5915-70. Washers GOST 11371-78.
     Thread bevel GOST 10549-80.'''
     )

@@ -30,7 +30,7 @@ def find_bolts(
             
     for bolt in data_bolts:
         result = bolt['bolt_size'] == size
-
+        
         if result:
             length = (
                 int(washer_head)*washer_width + det1 + det2
@@ -55,6 +55,10 @@ def find_bolts(
             thread_remain = (
                 2 * bolt["thread_size_small"] + bolt['thread_bevel_small']
                 )
+        else:
+            thread_remain = (
+                2 * bolt["thread_size_big"] + bolt['thread_bevel_big']
+                )
 
         if result:
             result = (length + thread_remain) < bolt['bolt_length']
@@ -73,6 +77,11 @@ def find_bolts(
 
         if result:
             bolts_list.append(bolt)
+
+    for bolt in bolts_list:
+        if thread == 'small' and bolt.get('thread_size_small') is None:
+            print('The calculation use \'big\' thread size')
+
     return bolts_list
 
 
