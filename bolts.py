@@ -14,8 +14,8 @@ file_washers.close()
 
 def find_bolts(
     data_bolts, data_nuts, data_washers,
-    size, det1, det2,
-    thread='big', thread_entry=False, washer_head=True, nuts_count=2
+    size, det1, det2, thread='big', thread_entry=False,
+    washer_head=True, washer_nuts=True, nuts_count=2
 ):
     
     bolts_list = []
@@ -34,7 +34,7 @@ def find_bolts(
         if result:
             length = (
                 int(washer_head)*washer_width + det1 + det2
-                + washer_width + nuts_count*nut_width
+                + int(washer_nuts)*washer_width + nuts_count*nut_width
                 )
 
             thread_position = (
@@ -44,7 +44,7 @@ def find_bolts(
 
             package_full = (
                 int(washer_head)*washer_width
-                + det1 + det2 + washer_width
+                + det1 + det2 + int(washer_nuts)*washer_width
                 )
 
         if result and thread == "big":
@@ -78,101 +78,54 @@ def find_bolts(
 
 def find_bolts_GOST_7798_70(
     size, det1, det2,
-    thread='big', thread_entry=False, washer_head=True, nuts_count=2
+    thread='big', thread_entry=False,
+    washer_head=True, washer_nuts=True, nuts_count=2
 ):
     '''Select bolts for given package
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":16, "bolt_length":50, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":55, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":60, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38}],\
-[{"nut_size":16,"nut_width":14.8, "nut_diameter":26.2}],\
-[{"washer_size":16, "washer_width":3, "washer_diameter":30}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":2, "thread_bevel":2}],\
+Check result for normal condition, 2 washers 2 nuts
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
 size=16, det1=10, det2=8)]
 [60]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":16, "bolt_length":50, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":55, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":60, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38}],\
-[{"nut_size":16,"nut_width":14.8, "nut_diameter":26.2}],\
-[{"washer_size":16, "washer_width":3, "washer_diameter":30}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":2, "thread_bevel":2}],\
-size=16, det1=8, det2=8, washer_head=0)]
+Check result without washer under bolt head
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=16, det1=8, det2=8, washer_head=False)]
 [55]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":16, "bolt_length":50, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":55, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38},\
-{"bolt_size":16, "bolt_length":60, "thread_size_big":2,\
-"thread_size_small":1.5, "thread_length":38}],\
-[{"nut_size":16,"nut_width":14.8, "nut_diameter":26.2}],\
-[{"washer_size":16, "washer_width":3, "washer_diameter":30}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":2, "thread_bevel":2}],\
+Check result with two washers under nuts
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=16, det1=10, det2=10, washer_nuts=2)]
+[65]
+
+Check result for small size of thread
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
 size=16, det1=8, det2=6, thread='small')]
 [55]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":10, "bolt_length":20, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":20},\
-{"bolt_size":10, "bolt_length":25, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":25},\
-{"bolt_size":10, "bolt_length":30, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":30}],\
-[{"nut_size":10, "nut_width":8.4, "nut_diameter":17.6}],\
-[{"washer_size":10, "washer_width":2, "washer_diameter":20}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":1.25, "thread_bevel":1.6}],\
-size=10, det1=2, det2=2, thread_entry='yes')]
+Check result when thread entry allowed
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=10, det1=2, det2=2, thread_entry=True)]
 [30]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":10, "bolt_length":20, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":20},\
-{"bolt_size":10, "bolt_length":25, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":25},\
-{"bolt_size":10, "bolt_length":30, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":30}],\
-[{"nut_size":10, "nut_width":8.4, "nut_diameter":17.6}],\
-[{"washer_size":10, "washer_width":2, "washer_diameter":20}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":1.25, "thread_bevel":1.6}],\
-size=10, det1=2, det2=2, thread_entry='yes', nuts_count=1)]
+Check result when thread entry allowed and use one nut
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=10, det1=2, det2=2, thread_entry=True, nuts_count=1)]
 [25, 30]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[{"bolt_size":10, "bolt_length":20, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":20},\
-{"bolt_size":10, "bolt_length":25, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":25},\
-{"bolt_size":10, "bolt_length":30, "thread_size_big":1.5,\
-"thread_size_small":1.25, "thread_length":30}],\
-[{"nut_size":10, "nut_width":8.4, "nut_diameter":17.6}],\
-[{"washer_size":10, "washer_width":2, "washer_diameter":20}],\
-[{"thread_step":1.5, "thread_bevel":1.6},\
-{"thread_step":1.25, "thread_bevel":1.6}],\
-size=10, det1=2, det2=2, thread='small', thread_entry='yes',\
-nuts_count=1, washer_head=0)]
+Check result when all positional parameters are specified
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=10, det1=2, det2=2, thread='small', thread_entry=True,\
+nuts_count=1, washer_head=False)]
 [20, 25, 30]
 
->>> [bolt['bolt_length'] for bolt in select_bolts(\
-[], [], [], [],\
-size=16, det1=10, det2=10)]
+Check result when give incorrect size of bolt
+>>> [bolt['bolt_length'] for bolt in find_bolts_GOST_7798_70(\
+size=13, det1=2, det2=2, thread='small', thread_entry=True,\
+nuts_count=1, washer_head=False)]
 []
 '''
     return find_bolts(
         data_bolts, data_nuts, data_washers,
         size, det1, det2,
-        thread, thread_entry, washer_head, nuts_count
+        thread, thread_entry, washer_head, washer_nuts, nuts_count
         )

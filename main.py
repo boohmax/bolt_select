@@ -42,13 +42,19 @@ parser.add_argument(
     help='Exsistance washer under bolt head, True or False'
     )
 parser.add_argument(
-    '--nuts-count', dest='nuts_count', type=int, default=2,
+    '--washer-nuts', dest='washer_nuts', type=int, nargs='?',
+    default=1, const=2,
+    help='Number of washers under nuts, 1 or 2'
+    )
+parser.add_argument(
+    '--nuts-count', dest='nuts_count', type=int, nargs='?',
+    default=2, const=1,
     help='Number of nuts, 2 or 1'
     )
 args = parser.parse_args()
 
 print(bolts.find_bolts_GOST_7798_70(
     args.size, args.det1, args.det2, args.thread, args.thread_entry,
-    args.washer_head, args.nuts_count
+    args.washer_head, args.washer_nuts, args.nuts_count
 )
 )
