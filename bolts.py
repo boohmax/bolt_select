@@ -12,25 +12,26 @@ file_washers = open("data_washers.json")
 data_washers = json.load(file_washers)
 file_washers.close()
 
+
 def find_bolts(
     data_bolts, data_nuts, data_washers,
     size, det1, det2, thread='big', thread_entry=False,
     washer_head=True, washer_nuts=True, nuts_count=2
 ):
-    
+
     bolts_list = []
-    
+
     for washer in data_washers:
         if washer['washer_size'] == size:
             washer_width = washer['washer_width']
-            
+
     for nut in data_nuts:
         if nut['nut_size'] == size:
             nut_width = nut['nut_width']
-            
+
     for bolt in data_bolts:
         result = bolt['bolt_size'] == size
-        
+
         if result:
             length = (
                 int(washer_head)*washer_width + det1 + det2
@@ -50,7 +51,7 @@ def find_bolts(
         if result and thread == "big":
             thread_remain = (
                 2 * bolt["thread_size_big"] + bolt['thread_bevel_big']
-                )                
+                )
         elif result and thread == "small" and bolt.get('thread_bevel_small'):
             thread_remain = (
                 2 * bolt["thread_size_small"] + bolt['thread_bevel_small']
@@ -62,8 +63,8 @@ def find_bolts(
 
         if result:
             result = (length + thread_remain) < bolt['bolt_length']
-            
-        if result and thread_entry == False:
+
+        if result and thread_entry is False:
             result = (
                 thread_position >
                 package_full - washer_width - 5 and
@@ -71,7 +72,7 @@ def find_bolts(
                 package_full - washer_width - det2/2 and
                 thread_position < package_full
                 )
-            
+
         if result and thread_entry:
             result = thread_position < package_full
 

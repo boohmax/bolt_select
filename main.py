@@ -2,15 +2,17 @@ import json
 import argparse
 import bolts
 
+
 def str2bool(v):
     if isinstance(v, bool):
-       return v
+        return v
     if v.lower() in ('yes', 'true', 't', 'y', '1'):
         return True
     elif v.lower() in ('no', 'false', 'f', 'n', '0'):
         return False
     else:
         raise argparse.ArgumentTypeError('Boolean value expected.')
+
 
 parser = argparse.ArgumentParser(
     description='''Program for find bolts with given parameters.
